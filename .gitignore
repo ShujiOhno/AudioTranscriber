@@ -1,0 +1,6 @@
+/venv/*
+/cache/*
+/bin/*
+/sample/*
+.env
+**__pycache__
