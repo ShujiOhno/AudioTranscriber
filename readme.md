@@ -11,7 +11,7 @@
 
 2. **APIキーの設定**
    - [Google AI Studio](https://aistudio.google.com/apikey)からGemini APIキーを取得
-   - `.env`ファイルを開き、`GEMINI_API_KEY=`の後ろに取得したAPIキーを貼り付けて保存
+   - `.env`ファイルを作成し、内容を`GEMINI_API_KEY=取得したAPIキー`として保存
 
 3. **環境構築**
    - `create_venv.py`をダブルクリックで実行
